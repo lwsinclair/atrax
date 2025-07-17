@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/metcalfc-atrax-badge.png)](https://mseep.ai/app/metcalfc-atrax)
+
 # Atrax: MCP Server Aggregation Proxy v0.1.0
 
 ```
